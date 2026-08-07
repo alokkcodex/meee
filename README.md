@@ -2,5 +2,5 @@
 nvtr
  bj
   alok
- nggc
+ nggc  nv
 hggf
